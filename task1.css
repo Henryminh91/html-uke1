@@ -1,0 +1,14 @@
+body{
+    margin:20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button{
+    display: flex;
+    justify-content: center;¨
+}
+
+h1,p{
+    text-align:center;
+}
+
