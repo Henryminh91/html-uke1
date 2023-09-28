@@ -1,0 +1,72 @@
+body {
+}
+
+#by {
+  color: #1f618d;
+  display: flex;
+  justify-content: center;
+}
+
+.bryggen {
+  width: 100;
+  height: 80vh;
+  color: #eaecee;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-image: url("images/bryggen.jpg");
+  background-size: cover;
+  border-radius: 15px;
+}
+
+#bergen-by {
+  background: #2471a3;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px 0 10px 0;
+}
+#by {
+  background: #e5e8e8;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px 0 10px 0;
+}
+
+#avatar {
+  border-radius: 50%;
+  width: 130px;
+}
+
+#avatar1 {
+  border-radius: 50%;
+  width: 130px;
+}
+
+#avatar2 {
+  border-radius: 50%;
+  width: 130px;
+}
+
+h3,
+h4,
+h5 {
+  font-size: small;
+}
+.header {
+  display: flex;
+}
+.ping {
+  width: 150px;
+}
+
+.card {
+  width: 400px;
+  margin: 0px auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: #ddebf8;
+  color: #2b2839;
+  border-bottom: 6px solid #023047;
+}
