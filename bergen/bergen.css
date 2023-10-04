@@ -14,7 +14,7 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-image: url("images/bryggen.jpg");
+  background-image: url("bryggen.jpg");
   background-size: cover;
   border-radius: 15px;
 }
@@ -54,6 +54,7 @@ h5 {
 }
 .header {
   display: flex;
+  
 }
 .ping {
   width: 150px;
